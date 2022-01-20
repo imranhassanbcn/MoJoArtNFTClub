@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAF6bfeac4d563E89E973e05fD52C3aD84A23A10B",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaf6bfeac4d563e89e973e05fd52c3ad84a23a10b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MoJoArtClub",
+  "SYMBOL": "MJD",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mojoartclub-v2",
+  "SHOW_BACKGROUND": true
+}
